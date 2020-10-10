@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name tia_dev_board-rescue)(type Legacy)(uri ${KIPRJMOD}/tia_dev_board-rescue.lib)(options "")(descr ""))
+)
