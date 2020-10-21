@@ -1,6 +1,12 @@
 ADA4625 TIA Development Board
 ===============================
 
+Issues in Version 1
+--------------------
+- [FIXED v2] No labeling of power, input/outputs
+- [FIXED v2] board was unnecessarily large
+- [FIXED v2]No name / version number on board
+
 Bill of Materials
 -------------------
 
@@ -11,8 +17,5 @@ Bill of Materials
 
 Results
 ----------
-Noise performance: 12mVpp measured on a 50MHz oscilloscope with a 4.7MOhm feedback resistor and a 1MOhm input resistor, but I'm really going to want to test this going into my ADC, because this is mostly capturing the noise of my function generator.
-
-Appendix 1 Notes - 
-
+Noise performance: 295nV/rtHz from 1Hz-62.5kHz
 
